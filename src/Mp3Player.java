@@ -1,4 +1,5 @@
 public class Mp3Player{
+//	void を戻り値の型として指定すると、そのメソッドは値を返さないことを示します。
 	public void play(){
 	  System.out.println("再生");
 	}
@@ -24,3 +25,4 @@ public class Mp3Player{
 	  System.out.println("インターネット");
 	}
 }
+//4  継承・・・機能を拡張すること。既に出来上がっているものに新しい機能を付け加える ことができます。  

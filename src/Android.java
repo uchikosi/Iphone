@@ -10,6 +10,8 @@ public class Android {
 		Android.mail();
 		Android.photo();
 		Android.internet();
-//		変数名.(ドット) メソッド名: 各変数に格納されたインスタンスが持つメソッドを呼び出す
+		System.out.println("Android表示");
+//		変数名.(ドット) メソッド名:
+//		各変数に格納されたインスタンスが持つメソッドを呼び出す
 	}
 }
